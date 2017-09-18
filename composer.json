@@ -1,0 +1,12 @@
+{
+    "name": "gm/php-common-properties",
+    "description": "Добавляет классам PHP геттеры и сеттеры.",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Common\\": "src/"
+        }
+    }
+}

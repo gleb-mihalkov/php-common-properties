@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "transform_tabs_to_spaces": true,
+        "rulers": [100],
+        "default_line_ending": "unix",
+        "tab_size": 4
+    }
+}
