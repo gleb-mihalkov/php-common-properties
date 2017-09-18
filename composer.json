@@ -1,6 +1,6 @@
 {
     "name": "gm/php-common-properties",
-    "description": "Добавляет классам PHP геттеры и сеттеры.",
+    "description": "Типаж, реализующий механизм свойств класса.",
     "type": "library",
     "minimum-stability": "stable",
     "require": {},

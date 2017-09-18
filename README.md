@@ -1,6 +1,6 @@
 # Типаж "Свойства"
 
-Добавляет классам PHP функционал свойств - геттеры и сеттеры. Библиотека является частью пакета [php-common](https://github.com/gleb-mihalkov/php-common/).
+Типаж, реализующий механизм свойств класса. Библиотека является частью пакета [php-common](https://github.com/gleb-mihalkov/php-common/).
 
 * [Документация](https://gleb-mihalkov.github.io/php-common-properties/)
 
