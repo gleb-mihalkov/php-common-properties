@@ -1,1 +1,1920 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getProp",
+				"getPropertySetter\t(TPropertiesAccessors.php)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"convert",
+				"convertPropertyNameToUpperCase"
+			],
+			[
+				"_pr",
+				"_propertySetters"
+			],
+			[
+				"_",
+				"_propertyGetters"
+			],
+			[
+				"_r",
+				"_propertySetters"
+			],
+			[
+				"_prop",
+				"_propertyGetters"
+			],
+			[
+				"getPropertyGet",
+				"getPropertyGetterName"
+			],
+			[
+				"T",
+				"TPropertiesArrayAccess\t(TPropertiesArrayAccess.php)"
+			],
+			[
+				"getPr",
+				"getPropertyNameLowerCase"
+			],
+			[
+				"getPRo",
+				"getPropertyNameLowerCase"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"isA",
+				"isAttribute"
+			],
+			[
+				"getAt",
+				"getAttribute"
+			],
+			[
+				"getAtt",
+				"getAttributeGetter"
+			],
+			[
+				"getAttributeGet",
+				"getAttributeGetterName"
+			],
+			[
+				"attr",
+				"attributeGetters"
+			],
+			[
+				"isAtt",
+				"isAttributesObject"
+			],
+			[
+				"fun",
+				"function\t(ModelRepository.php)"
+			],
+			[
+				"cl",
+				"class\t(Model.php)"
+			],
+			[
+				"pack",
+				"package\t@package"
+			],
+			[
+				"php-common",
+				"php-common-transaction"
+			],
+			[
+				"Chil",
+				"ChildA"
+			],
+			[
+				"fu",
+				"fun\tfunction …"
+			],
+			[
+				"seti",
+				"setIndexValue〔function〕"
+			],
+			[
+				"typeD",
+				"typeDstInfo"
+			],
+			[
+				"typeS",
+				"typeSrcInfo"
+			],
+			[
+				"getI",
+				"getInvokePreg〔function〕"
+			],
+			[
+				"get",
+				"getInvokePreg〔function〕"
+			],
+			[
+				"getIn",
+				"getInvokeValuesType〔function〕"
+			],
+			[
+				"_get",
+				"_getKeyFunc〔function〕"
+			],
+			[
+				"Lkk",
+				"Lkk\\Soap\\Manager〔class〕"
+			],
+			[
+				"array_merg",
+				"array_merge_recursive〔function〕"
+			],
+			[
+				"array_me",
+				"array_merge_recursive〔function〕"
+			],
+			[
+				"quest",
+				"questionIds"
+			],
+			[
+				"que",
+				"$question〔variable〕"
+			],
+			[
+				"Q",
+				"QuestionPropertyValueRule〔class〕"
+			],
+			[
+				"session_",
+				"session_id"
+			],
+			[
+				"se",
+				"sessionExists〔function〕"
+			],
+			[
+				"ses",
+				"sessionDelete〔function〕"
+			],
+			[
+				"sess",
+				"sessionExists〔function〕"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"No",
+				"NotifyService〔class〕"
+			],
+			[
+				"Qu",
+				"QuestionPropertyValueRule"
+			],
+			[
+				"Que",
+				"Question〔class〕"
+			],
+			[
+				"pri",
+				"$priority〔variable〕"
+			],
+			[
+				"toS",
+				"toStringPop〔function〕"
+			],
+			[
+				"isB",
+				"$isBreak〔variable〕"
+			],
+			[
+				"Pro",
+				"PropertyValue〔class〕"
+			],
+			[
+				"peek",
+				"$peekPriority〔variable〕"
+			],
+			[
+				"ope",
+				"$operator〔variable〕"
+			],
+			[
+				"oper",
+				"$operators〔variable〕"
+			],
+			[
+				"isBr",
+				"$isBracketOpen〔variable〕"
+			],
+			[
+				"prop",
+				"$propety〔variable〕"
+			],
+			[
+				"Te",
+				"TestingQuestion"
+			],
+			[
+				"Ques",
+				"QuestionGroup"
+			],
+			[
+				"Obje",
+				"ObjectPropertyValue"
+			],
+			[
+				"Prop",
+				"Property"
+			],
+			[
+				"Property",
+				"PropertyValue"
+			],
+			[
+				"TEs",
+				"TestingQuestion〔class〕"
+			],
+			[
+				"Pr",
+				"PropertyValue〔class〕"
+			],
+			[
+				"Objec",
+				"ObjectPropertyValue〔class〕"
+			],
+			[
+				"call_user_fun",
+				"call_user_func_array"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"call_use_",
+				"call_user_func_array"
+			],
+			[
+				"wri",
+				"writing〔function〕"
+			],
+			[
+				"Dire",
+				"DirectoryIterator〔class〕"
+			],
+			[
+				"getN",
+				"getFilename〔function〕"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"__",
+				"__construct〔function〕"
+			],
+			[
+				"bitr",
+				"bitrixProlog"
+			],
+			[
+				"SITE_",
+				"SITE_TEMPLATE_PATH"
+			],
+			[
+				"file_",
+				"file_get_contents〔function〕"
+			],
+			[
+				"FileNo",
+				"FileNotFoundError〔namespace〕"
+			],
+			[
+				"bit",
+				"$bitrixProlog〔variable〕"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"LoadGroupsBy",
+				"LoadGroupsByObjectsList〔function〕"
+			],
+			[
+				"Load",
+				"LoadGroupByCode〔function〕"
+			],
+			[
+				"LoadG",
+				"LoadGroupsByObject〔function〕"
+			],
+			[
+				"objectCo",
+				"$objectCodes〔variable〕"
+			],
+			[
+				"gro",
+				"groups〔variable〕"
+			],
+			[
+				"object_gr",
+				"object_groups"
+			],
+			[
+				"abon",
+				"$abonentId〔variable〕"
+			],
+			[
+				"Ab",
+				"AbonentModel"
+			],
+			[
+				"BadRe",
+				"BadRequestError"
+			],
+			[
+				"Jso",
+				"JsonResponse〔namespace〕"
+			],
+			[
+				"call",
+				"$callback〔variable〕"
+			],
+			[
+				"abs",
+				"abstract〔keyword〕"
+			],
+			[
+				"nam",
+				"namespace〔keyword〕"
+			],
+			[
+				"sa",
+				"sanitizeValue"
+			],
+			[
+				"strip",
+				"stripslashes〔function〕"
+			],
+			[
+				"array_un",
+				"array_unshift〔function〕"
+			],
+			[
+				"BX_",
+				"BX_NOT_FOUND〔constant〕"
+			],
+			[
+				"BX_NOT",
+				"BX_NOT_RESOLVED〔constant〕"
+			],
+			[
+				"per",
+				"$previous〔variable〕"
+			],
+			[
+				"Err",
+				"Errors〔namespace〕"
+			],
+			[
+				"thr",
+				"throw〔keyword〕"
+			],
+			[
+				"Per",
+				"PeriodsGroupManager〔class〕"
+			],
+			[
+				"setC",
+				"setComplexes〔function〕"
+			],
+			[
+				"o",
+				"$object〔variable〕"
+			],
+			[
+				"pa",
+				"paymentIds"
+			],
+			[
+				"foreig",
+				"foreginsUnique"
+			],
+			[
+				"fore",
+				"$foreigns〔variable〕"
+			],
+			[
+				"for",
+				"$foreigns〔variable〕"
+			],
+			[
+				"by",
+				"byForeignIds〔variable〕"
+			],
+			[
+				"byF",
+				"byForeign〔variable〕"
+			],
+			[
+				"byFo",
+				"byForeignIds〔variable〕"
+			],
+			[
+				"ids",
+				"idsSub〔variable〕"
+			],
+			[
+				"Lka",
+				"Lka\\Managers\\Manager〔class〕"
+			],
+			[
+				"reques",
+				"$request_object_id〔variable〕"
+			],
+			[
+				"idsPa",
+				"$idsPayments〔variable〕"
+			],
+			[
+				"obj",
+				"$objectId〔variable〕"
+			],
+			[
+				"payment",
+				"$paymentId〔variable〕"
+			],
+			[
+				"paym",
+				"paymentsIds"
+			],
+			[
+				"UF_",
+				"UF_ISDELETED"
+			],
+			[
+				"cons",
+				"consumptionsByObject"
+			],
+			[
+				"isDates",
+				"$isDatesClosed〔variable〕"
+			],
+			[
+				"getMo",
+				"getMonthDate"
+			],
+			[
+				"getm",
+				"getMonthDate"
+			],
+			[
+				"onFrom",
+				"onFromRender"
+			],
+			[
+				"ran",
+				"rangeName〔variable〕"
+			],
+			[
+				"isRan",
+				"isRangeFrom"
+			],
+			[
+				"init",
+				"initDateRanges"
+			],
+			[
+				"getO",
+				"getOptionsValidate〔function〕"
+			],
+			[
+				"par",
+				"parseDate〔function〕"
+			],
+			[
+				"isRa",
+				"isRange"
+			],
+			[
+				"isD",
+				"isDateInRange〔function〕"
+			],
+			[
+				"UF_OPL",
+				"UF_OPL_RT"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "Package Control: Rem",
+		"selected_items":
+		[
+			[
+				"Package Control: Rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Lis",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"M",
+				"Material Theme: Configuration"
+			],
+			[
+				"Package Co Remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"MarkdownEditing Chang",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"MarkdownEditing Colo",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"RemoveP",
+				"Package Control: Remove Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"git push t",
+				"Git: Push Tags"
+			],
+			[
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"dele",
+				"ANF: Delete File"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"Add",
+				"Git: Add Current File"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"quic",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"quc",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"To spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set ini",
+				"Set Syntax: INI"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"All Auto",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"QuiCommit",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"guttern",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"htmlbe",
+				"HTMLBeautify"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"bo",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Docl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"Doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"RemovePa",
+				"Package Control: Remove Package"
+			],
+			[
+				"List p",
+				"Package Control: List Packages"
+			],
+			[
+				"Box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"setp hp",
+				"Set Syntax: PHP"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"set styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"Disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax st",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git Re",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"Git Pull",
+				"Git: Pull"
+			],
+			[
+				"GIt QU",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"Git",
+				"Git: Add All"
+			],
+			[
+				"Git Stat",
+				"Git: Status"
+			],
+			[
+				"Git Qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set styl\t",
+				"Set Syntax: Stylus"
+			],
+			[
+				"Set Styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"HTML",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ANF",
+				"ANF: New File"
+			],
+			[
+				"set twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"HTM",
+				"HTMLBeautify"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"set coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"s",
+				"Set Syntax: PHP"
+			],
+			[
+				"set coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set Javascr\t",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set Cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"Set Js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"set Jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"set apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"set JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Set",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ",
+				"Set Syntax: PHP"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Set JS",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 657.0
+	},
+	"console":
+	{
+		"height": 410.0,
+		"history":
+		[
+			"[ v.settings().erase(\"color_scheme\") for views in [ w.views() for w in sublime.windows() ] for v in views ]",
+			"v.settings().erase(\"color_scheme\") for views in [ w.views() for w in sublime.windows() ] for v in views",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_command(True)",
+			"sublime.log_action(true)",
+			"sublime.log_actions(true)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(true)",
+			"print(result)",
+			"result = math.sqrt(30*30) / 2",
+			"import math",
+			"result = math.sqrt(30*30) / 2",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gm/development/lib/php-common-properties/composer.json",
+		"/home/gm/development/lib/php-common-properties/README.md",
+		"/home/gm/development/passwords_dev.md",
+		"/home/gm/development/gptek/lka/config.php",
+		"/home/gm/development/gptek/lka/import/accounting_unit_data.php",
+		"/home/gm/development/gptek/lka/import/init.php",
+		"/home/gm/development/lib/php-common-properties/src/TPropertiesAccessors.php",
+		"/home/gm/development/lib/php-common-properties/src/TPropertiesMemberAccess.php",
+		"/home/gm/development/lib/php-common-properties/src/TAssocProperties.php",
+		"/home/gm/development/lib/php-common-properties/src/TProperties.php",
+		"/home/gm/development/lib/php-common-properties/src/TPropertiesArrayAccess.php",
+		"/home/gm/development/lib/php-common-properties/test.php",
+		"/home/gm/development/lib/php-common-properties/src/IProperties.php",
+		"/home/gm/Загрузки/papirus-icon-theme-master.zip",
+		"/home/gm/development/lib/php-common-model/test.php",
+		"/home/gm/development/lib/php-common-model/src/ModelException.php",
+		"/home/gm/development/lib/php-common-model/src/ModelRepository.php",
+		"/home/gm/development/lib/php-common-model/src/ModelNotFoundException.php",
+		"/home/gm/development/lib/php-common-model/composer.json",
+		"/home/gm/.config/sublime-text-3/Packages/python-markdown/dependency-metadata.json",
+		"/home/gm/.config/sublime-text-3/Packages/MarkdownEditing/README.md",
+		"/home/gm/development/lib/php-common-model/README.md",
+		"/home/gm/development/lib/php-common-dynamic/test.php",
+		"/home/gm/development/lib/php-common-dynamic/README.md",
+		"/home/gm/development/lib/php-common-dynamic/composer.json",
+		"/home/gm/development/pikabu-politics/src/Model/PostsPaginator.php",
+		"/home/gm/development/pikabu-politics/src/Config.php",
+		"/home/gm/development/pikabu-politics/src/Model/Paginator.php",
+		"/home/gm/development/pikabu-politics/main.php",
+		"/home/gm/development/pikabu-politics/src/Model/Node.php",
+		"/home/gm/development/pikabu-politics/src/Model/Page.php",
+		"/home/gm/development/pikabu-politics/src/Model/Post.php",
+		"/home/gm/development/pikabu-politics/src/Model/PostsPage.php",
+		"/home/gm/development/pikabu-politics/config.json",
+		"/home/gm/development/pikabu-politics/src/Model/PostPaginator.php",
+		"/home/gm/development/pikabu-politics/src/Model/MainPaginator.php",
+		"/home/gm/development/pikabu-politics/composer.json",
+		"/home/gm/development/pikabu-politics/index.php",
+		"/home/gm/development/utilites/php-common/README.md",
+		"/home/gm/development/utilites/php-common/composer.json",
+		"/home/gm/development/utilites/php-common-singleton/README.md",
+		"/home/gm/development/utilites/php-common-singleton/php-common-singleton.sublime-project",
+		"/home/gm/development/utilites/php-patterns-singleton/composer.json",
+		"/home/gm/development/utilites/php-patterns-singleton/README.md",
+		"/home/gm/development/utilites/jquery-widget/.gitignore",
+		"/home/gm/development/mysql.txt",
+		"/home/gm/development/utilites/php-singleton/test/example.php",
+		"/home/gm/.cache/.fr-2InKWm/Snippets/PHPDoc-class.sublime-snippet",
+		"/home/gm/.cache/.fr-b4F3fy/Snippets/class-{-}.sublime-snippet",
+		"/home/gm/development/temp/PHP.sublime-package_FILES/Snippets/class-{-}.sublime-snippet",
+		"/home/gm/development/temp/PHP.sublime-package_FILES/Snippets/Constructor.sublime-snippet",
+		"/home/gm/.cache/.fr-Fxt2ZP/Snippets/class-{-}.sublime-snippet",
+		"/home/gm/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/gm/development/utilites/php-singleton/composer.json",
+		"/home/gm/development/utilites/php-singleton/src/TSingleton.php",
+		"/home/gm/development/utilites/php-singleton/README.md",
+		"/home/gm/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/gm/development/utilites/php-singleton/php-patterns-singleton.sublime-project",
+		"/home/gm/development/utilites/php-dictionary/src/BaseReflection.php",
+		"/home/gm/development/utilites/php-dictionary/test.php",
+		"/home/gm/development/utilites/php-dictionary/src/Base.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseGetters.php",
+		"/home/gm/development/utilites/php-dictionary/composer.json",
+		"/home/gm/development/utilites/php-dictionary/src/BaseCall.php",
+		"/home/gm/development/utilites/php-dictionary/src/TSingleton.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseIndex.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseApi.php",
+		"/home/gm/development/gptek/lka/helpers/data_partials/data_units.php",
+		"/home/gm/development/gptek/lka/helpers/data.php",
+		"/home/gm/development/utilites/php-dictionary/src/Iterator.php",
+		"/home/gm/development/utilites/php-dictionary/Iterator.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseSingleton.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseMagic.php",
+		"/home/gm/development/utilites/php-dictionary/test/Dictionary.php",
+		"/home/gm/development/utilites/php-dictionary/src/DictionarySingleton.php",
+		"/home/gm/development/utilites/php-dictionary/src/DictionaryMagic.php",
+		"/home/gm/development/utilites/php-dictionary/src/Dictionary.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseProperty.php",
+		"/home/gm/development/utilites/php-dictionary/test/Enum.php",
+		"/home/gm/development/utilites/php-dictionary/BaseProperty.php",
+		"/home/gm/development/utilites/php-dictionary/src/BaseFacade.php",
+		"/home/gm/development/gptek/lkk/src/common/Enum/Base.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/BaseObject.php",
+		"/home/gm/development/gptek/lkk/src/common/Enum/BaseCode.php",
+		"/home/gm/development/gptek/lkk/src/common/Enum/THighload.php",
+		"/home/gm/development/gptek/lkk/src/tabs/tab_objects_items.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/Enum.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/Object.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/Group.php",
+		"/home/gm/development/gptek/lkk/src/tabs/tab_objects_list.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/ClientObject.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/ClientGroup.php",
+		"/home/gm/development/gptek/lkk/src/tabs/request_func_1c.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/Client.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/Contact.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/Info.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/Base.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/TFromSoapItem.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/ClientInfo.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/ClientContact.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/TFromSoapList.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/IFromSoap.php",
+		"/home/gm/development/gptek/lkk/src/common/Model/IFromTable.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/Model/InfoPerson.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/Model/Base.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/Model/Info.php",
+		"/home/gm/development/utilites/bitrix-soap/src/ClientFacade.php",
+		"/home/gm/development/utilites/bitrix-soap/src/Client.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/Info.php",
+		"/home/gm/development/gptek/lkk/src/.settings_extra.php",
+		"/home/gm/development/gptek/lkk/src/common/Soap/Soap.php",
+		"/home/gm/development/utilites/bitrix/bitrix-config/test.php",
+		"/home/gm/development/utilites/bitrix/bitrix-config/src/Config.php",
+		"/home/gm/development/utilites/bitrix/bitrix/.settings.php",
+		"/home/gm/development/utilites/bitrix/bitrix-config/php_interface/init.php",
+		"/home/gm/development/temp/include.php",
+		"/home/gm/development/utilites/bitrix/bitrix/modules/main/include.php",
+		"/home/gm/evalhook/Makefile.global",
+		"/home/gm/evalhook/configure.in",
+		"/home/gm/development/utilites/bitrix/bitrix/modules/main/admin/define.php",
+		"/home/gm/development/utilites/bitrix/bitrix-config/README.md",
+		"/home/gm/development/utilites/bitrix/bitrix-config/composer.json",
+		"/home/gm/development/utilites/bitrix/bitrix-config/src",
+		"/home/gm/development/sam_nadzor/www/local/app/Model/Question.php",
+		"/home/gm/development/sam_nadzor/www/README.md",
+		"/home/gm/development/sam_nadzor/www/test.php",
+		"/home/gm/development/sam_nadzor/www/local/php_interface/init.php",
+		"/home/gm/development/sam_nadzor/www/local/scripts/convert-question-property-values.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"= $match[1]",
+			"(string ",
+			"use",
+			"TProperties",
+			" в lowerCamelCase",
+			"getPropertyNameFromLowerCase",
+			"getPropertyNameUpperCase",
+			"getPropertyNameLowerCase",
+			"protected",
+			"convertAttributeName",
+			"this",
+			"_attributesGetter",
+			"_attributeSetters",
+			"_getAttribute",
+			"_attributeGetters",
+			"BarAttribute",
+			"_getAttribute",
+			"_initAttributeAccessors",
+			"_isAttributesObject",
+			"private",
+			"getAttributeSetter(",
+			"getAttributeGetter(",
+			"getAttributeGetter",
+			"getAttributeGetterName",
+			"getAttributeSetterName",
+			"initAttributeAccessors",
+			"getAttributeNames",
+			"attributes",
+			"_isAttributesObject",
+			"$this->isAttributesObject",
+			"$this->isAttibutesObject",
+			"$this->attributes",
+			"$this->isAttributesObject",
+			"attributes",
+			"attributeSetters",
+			"attributeGetters",
+			"private",
+			"isAttributesObject",
+			"getAttributeGetterName",
+			"initAttributeAccessors",
+			"getAttributeNames",
+			"isAttributesObject",
+			"isAttibutesObject",
+			"isAttributesObject",
+			"Виртуальный метод.",
+			"_setAttribute",
+			"_getAttribute",
+			"setAttribute",
+			"getAttribute",
+			"protected",
+			"string",
+			"getAttributeSetter",
+			"getAttributeGetter",
+			"Attribute",
+			"protected",
+			"string",
+			"isAttributesObject",
+			"Attribute",
+			"offset",
+			"string",
+			"offset",
+			"protected",
+			"string",
+			"_attributes",
+			" *",
+			"function",
+			"model",
+			"Model",
+			"model",
+			"getId",
+			"Model",
+			"function",
+			"model",
+			"Model",
+			"string",
+			"model",
+			"theme",
+			"how to change the theme",
+			"public",
+			"nodeClass",
+			"page",
+			"postNode",
+			"Crawler",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"item.",
+				"local/common/file_system/item.php"
+			],
+			[
+				"base",
+				"local/common/configs/base.php"
+			],
+			[
+				"data",
+				"lka_functions/data.php"
+			],
+			[
+				"page",
+				"common/page.php"
+			],
+			[
+				"appl",
+				"common/application.php"
+			],
+			[
+				"app",
+				"common/app.php"
+			],
+			[
+				"js",
+				"scripts/preloader.js"
+			],
+			[
+				"vars",
+				"styles/vars.sass"
+			],
+			[
+				"preload",
+				"styles/preloader.sass"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"image",
+				"styles/image.sass"
+			],
+			[
+				"gall",
+				"styles/gallery.sass"
+			],
+			[
+				"link",
+				"styles/link.sass"
+			],
+			[
+				"footer",
+				"styles/footer.sass"
+			],
+			[
+				"lin",
+				"styles/link.sass"
+			],
+			[
+				"heading",
+				"styles/heading.sass"
+			],
+			[
+				"share",
+				"styles/share.sass"
+			],
+			[
+				"soc",
+				"styles/soc.sass"
+			],
+			[
+				"media",
+				"styles/media.sass"
+			],
+			[
+				"galler",
+				"styles/gallery.sass"
+			],
+			[
+				"carou",
+				"scripts/carousel.js"
+			],
+			[
+				"master",
+				"html/master.twig"
+			],
+			[
+				"modal",
+				"scripts/modal.js"
+			],
+			[
+				"light",
+				"styles/lightbox.sass"
+			],
+			[
+				"menu",
+				"styles/menu.sass"
+			],
+			[
+				"pai",
+				"styles/pagination.sass"
+			],
+			[
+				"pa",
+				"html/pagination.twig"
+			],
+			[
+				"lead",
+				"styles/lead.sass"
+			],
+			[
+				"global",
+				"styles/global.sass"
+			],
+			[
+				"head",
+				"styles/header.sass"
+			],
+			[
+				"brea",
+				"styles/breadcrumbs.sass"
+			],
+			[
+				"pag",
+				"styles/pagination.sass"
+			],
+			[
+				"header",
+				"html/header.twig"
+			],
+			[
+				"header_item",
+				"styles/header_item.sass"
+			],
+			[
+				"header_me",
+				"styles/header_menu.sass"
+			],
+			[
+				"ma",
+				"main.sass"
+			],
+			[
+				"contacts",
+				"styles/contacts.sass"
+			],
+			[
+				"cotna",
+				"contacts.twig"
+			],
+			[
+				"car",
+				"styles/carousel.sass"
+			],
+			[
+				"sha",
+				"styles/share.sass"
+			],
+			[
+				"mod",
+				"scripts/modal.js"
+			],
+			[
+				"var",
+				"styles/vars.sass"
+			],
+			[
+				"tra",
+				"styles/transition.sass"
+			],
+			[
+				"text",
+				"styles/text.sass"
+			],
+			[
+				"tras",
+				"styles/transition.sass"
+			],
+			[
+				"corne",
+				"styles/corners.sass"
+			],
+			[
+				"conr",
+				"styles/corners.sass"
+			],
+			[
+				"index",
+				"index.twig"
+			],
+			[
+				"tr",
+				"styles/transition.sass"
+			],
+			[
+				"test",
+				"styles/text.sass"
+			],
+			[
+				"corn",
+				"styles/corners.sass"
+			],
+			[
+				"xml",
+				"lib/xml.php"
+			],
+			[
+				"proce",
+				"lib/process_api.php"
+			],
+			[
+				"inc",
+				"include.php"
+			],
+			[
+				"offer.ht",
+				"offer/offer.html"
+			],
+			[
+				"catalog",
+				"catalog/catalog.html"
+			],
+			[
+				"manager",
+				"common/abstract/manager.coffee"
+			],
+			[
+				"offer.html",
+				"offer/offer.html"
+			],
+			[
+				"route",
+				"app/routes.coffee"
+			],
+			[
+				"catalog-ma",
+				"catalog/catalog-manager.coffee"
+			],
+			[
+				"catalog-mode",
+				"catalog/catalog-model.coffee"
+			],
+			[
+				"offer",
+				"offer/offer-manager.coffee"
+			],
+			[
+				"config",
+				"app/config.coffee"
+			],
+			[
+				"json",
+				"common/json.coffee"
+			],
+			[
+				"net",
+				"app/net.coffee"
+			],
+			[
+				"api",
+				"app/api.coffee"
+			],
+			[
+				"push",
+				"app/push.coffee"
+			],
+			[
+				"input",
+				"styles/input.styl"
+			],
+			[
+				"man",
+				"main.js"
+			],
+			[
+				"products_",
+				"html/products_filter.twig"
+			],
+			[
+				"sele",
+				"styles/select.styl"
+			],
+			[
+				"resp",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"respons",
+				"styles/response.styl"
+			],
+			[
+				"response",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"product",
+				"html/products_filter.twig"
+			],
+			[
+				"about",
+				"styles/about_carousel.styl"
+			],
+			[
+				"map",
+				"html/map.twig"
+			],
+			[
+				"res",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"ab",
+				"styles/about_carousel.styl"
+			],
+			[
+				"map.tw",
+				"html/map.twig"
+			],
+			[
+				"colla",
+				"styles/collapse.styl"
+			],
+			[
+				"faq",
+				"html/faq.twig"
+			],
+			[
+				"mapt",
+				"html/map.twig"
+			],
+			[
+				"box",
+				"styles/box.styl"
+			],
+			[
+				"vas",
+				"styles/vars.styl"
+			],
+			[
+				"responses_ca",
+				"styles/responses_carousel.styl"
+			],
+			[
+				"ind",
+				"index.twig"
+			],
+			[
+				"bar",
+				"styles/bar.styl"
+			],
+			[
+				"hlper",
+				"styles/helpers.styl"
+			],
+			[
+				"but",
+				"styles/button.styl"
+			],
+			[
+				"reset",
+				"styles/reset.styl"
+			],
+			[
+				"reser",
+				"res/README.md"
+			],
+			[
+				"form",
+				"styles/form.styl"
+			],
+			[
+				"ele",
+				"styles/element.styl"
+			],
+			[
+				"coll",
+				"styles/collapse_list.styl"
+			],
+			[
+				"product_pr",
+				"styles/product_promo.styl"
+			],
+			[
+				"in",
+				"index.twig"
+			],
+			[
+				"butt",
+				"styles/button.styl"
+			],
+			[
+				"product_item_te",
+				"styles/product_item_text.styl"
+			],
+			[
+				"product_item",
+				"styles/product_item_text.styl"
+			],
+			[
+				"prod",
+				"html/products_list.twig"
+			],
+			[
+				"produ",
+				"styles/products_list.styl"
+			],
+			[
+				"pro",
+				"styles/products_list.styl"
+			],
+			[
+				"produc",
+				"html/products_list.twig"
+			],
+			[
+				"block",
+				"html/block_title.twig"
+			],
+			[
+				"conta",
+				"styles/container.styl"
+			],
+			[
+				"products_list",
+				"styles/products_list.styl"
+			],
+			[
+				"product_list",
+				"html/products_list.twig"
+			],
+			[
+				"helpers",
+				"styles/helpers.styl"
+			],
+			[
+				"sort",
+				"styles/sort.styl"
+			],
+			[
+				"select",
+				"styles/select.styl"
+			],
+			[
+				"la",
+				"styles/label.styl"
+			],
+			[
+				"label",
+				"styles/label.styl"
+			],
+			[
+				"grid",
+				"styles/grid.styl"
+			],
+			[
+				"for",
+				"styles/form.styl"
+			],
+			[
+				"fo",
+				"styles/form.styl"
+			],
+			[
+				"container",
+				"styles/container.styl"
+			],
+			[
+				"main_me",
+				"styles/main_menu.styl"
+			],
+			[
+				"button",
+				"styles/button.styl"
+			],
+			[
+				"bas",
+				"styles/basket_info.styl"
+			],
+			[
+				"bask",
+				"styles/basket_info.styl"
+			],
+			[
+				"run",
+				"app/run.coffee"
+			],
+			[
+				"hep",
+				"styles/helpers.styl"
+			],
+			[
+				"help",
+				"styles/helpers.styl"
+			],
+			[
+				"mas",
+				"html/master.twig"
+			],
+			[
+				"butto",
+				"styles/button.styl"
+			],
+			[
+				"footer_gr",
+				"styles/footer_group.styl"
+			],
+			[
+				"init",
+				"init.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

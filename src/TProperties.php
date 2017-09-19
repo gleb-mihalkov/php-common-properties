@@ -54,12 +54,8 @@ namespace Common
          */
         public function getProperty(string $name)
         {
-            if ($getter = static::getPropertyGetter($name))
-            {
-                return call_user_func($getter);
-            }
-
-            return $this->_getProperty($name);
+            $getter = static::getPropertyGetter($name);
+            return $getter ? call_user_func($getter) : $this->_getProperty($name);
         }
 
         /**
