@@ -25,7 +25,29 @@ namespace Common
          */
         public function __construct(array $assoc = [])
         {
-            $this->proprties = $assoc;
+            $this->setProperties($assoc);
+        }
+
+        /**
+         * Задает коллекцию свойств.
+         *
+         * @param array $assoc Ассоциативный массив.
+         */
+        public function setProperties(array $assoc)
+        {
+            $assoc = isset($assoc) ? $assoc : [];
+
+            $this->properties = $assoc;
+        }
+
+        /**
+         * Получает коллекцию свойств.
+         *
+         * @return array Ассоциативный массив.
+         */
+        public function getProperties()
+        {
+            return $this->properties;
         }
 
         /**
